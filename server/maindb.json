@@ -1,10 +1,587 @@
 {
   "admin": {
     "username": "admin",
-    "password": "bf45e08189f2ec58a9d4768744f8faae",
-    "loginToken": "",
-    "logs": [],
+    "password": "7e0ca25f1244e998bfa61908cdfc83a9",
+    "loginToken": "9af965d30350cd818e4ee4c9096db873",
+    "logs": [
+      {
+        "time": "2024-05-03T06:22:51.829Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"22.0.1\" 2024-. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-05-03T06:24:51.634Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:25:22.880Z",
+        "type": "INFO",
+        "message": "Requested 0xFC From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:25:58.681Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:26:09.022Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:26:09.129Z",
+        "type": "ERROR",
+        "message": "5529d3ca9ac40311 GPS Recieved No Data"
+      },
+      {
+        "time": "2024-05-03T06:26:09.130Z",
+        "type": "ERROR",
+        "message": "5529d3ca9ac40311 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2024-05-03T06:26:36.866Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:26:43.202Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:26:57.046Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:27:03.478Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:27:05.422Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:27:06.556Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:27:34.796Z",
+        "type": "INFO",
+        "message": "Requested 0xSR From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:27:42.154Z",
+        "type": "INFO",
+        "message": "Requested 0xSR From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:27:51.820Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:36:36.984Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:36:36.985Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Running Queued Commands"
+      },
+      {
+        "time": "2024-05-03T06:36:36.986Z",
+        "type": "INFO",
+        "message": "Requested 0xSR From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:36:36.986Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:36:36.987Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:36:36.988Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:37:36.276Z",
+        "type": "INFO",
+        "message": "Requested 0xFC From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:37:56.605Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:37:56.757Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:37:59.957Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:38:00.121Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:38:03.397Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:38:40.606Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:38:46.331Z",
+        "type": "INFO",
+        "message": "Recieving sound3060778843024795550.mp3 from 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:39:08.892Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:39:10.418Z",
+        "type": "INFO",
+        "message": "Recieving sound1956626177606626175.mp3 from 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:39:26.005Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:39:31.561Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:39:57.659Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:40:00.135Z",
+        "type": "SUCCESS",
+        "message": "5529d3ca9ac40311 Apps Updated"
+      },
+      {
+        "time": "2024-05-03T06:40:08.083Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:40:08.231Z",
+        "type": "SUCCESS",
+        "message": "5529d3ca9ac40311 GPS Updated"
+      },
+      {
+        "time": "2024-05-03T06:42:18.244Z",
+        "type": "INFO",
+        "message": "Requested 0xRC From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:42:32.247Z",
+        "type": "INFO",
+        "message": "Requested 0xSR From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:42:39.811Z",
+        "type": "INFO",
+        "message": "Requested 0xSR From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:43:48.967Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:36.714Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:37.113Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:44:41.362Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:41.506Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:44:42.975Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:43.163Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:44:45.139Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:45.738Z",
+        "type": "INFO",
+        "message": "Recieving File From5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:45.742Z",
+        "type": "SUCCESS",
+        "message": "File From5529d3ca9ac40311 Saved"
+      },
+      {
+        "time": "2024-05-03T06:44:52.709Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:56.479Z",
+        "type": "INFO",
+        "message": "Recieving File From5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:44:56.484Z",
+        "type": "SUCCESS",
+        "message": "File From5529d3ca9ac40311 Saved"
+      },
+      {
+        "time": "2024-05-03T06:45:31.340Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:45:32.637Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:45:33.781Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:45:34.189Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T06:46:47.509Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:46:59.522Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:46:59.523Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Running Queued Commands"
+      },
+      {
+        "time": "2024-05-03T06:46:59.523Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:46:59.524Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:47:00.917Z",
+        "type": "SUCCESS",
+        "message": "5529d3ca9ac40311 GPS Updated"
+      },
+      {
+        "time": "2024-05-03T06:51:26.140Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:52:07.800Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:52:07.801Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Running Queued Commands"
+      },
+      {
+        "time": "2024-05-03T06:52:07.802Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:52:37.814Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:56:17.294Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:56:17.295Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Running Queued Commands"
+      },
+      {
+        "time": "2024-05-03T06:56:17.295Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T06:56:48.040Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:56:54.049Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:57:24.063Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:57:25.003Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:57:55.010Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:58:00.937Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:58:30.949Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:58:36.211Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:59:06.223Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:59:11.657Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T06:59:41.665Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T06:59:47.839Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T07:00:17.851Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T07:00:23.482Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T07:00:53.484Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      },
+      {
+        "time": "2024-05-03T07:02:32.989Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Connected"
+      },
+      {
+        "time": "2024-05-03T07:03:50.127Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T07:03:50.520Z",
+        "type": "SUCCESS",
+        "message": "5529d3ca9ac40311 GPS Updated"
+      },
+      {
+        "time": "2024-05-03T07:04:09.538Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T07:04:09.802Z",
+        "type": "SUCCESS",
+        "message": "5529d3ca9ac40311 Permissions Updated"
+      },
+      {
+        "time": "2024-05-03T07:07:46.635Z",
+        "type": "INFO",
+        "message": "35ffb6d2ad20131b Connected"
+      },
+      {
+        "time": "2024-05-03T07:07:54.509Z",
+        "type": "INFO",
+        "message": "35ffb6d2ad20131b Disconnected"
+      },
+      {
+        "time": "2024-05-03T07:10:59.152Z",
+        "type": "INFO",
+        "message": "Requested 0xSS From 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T07:11:06.021Z",
+        "type": "INFO",
+        "message": "Recieving screenshot_2024_11_03_12_11.png from 5529d3ca9ac40311"
+      },
+      {
+        "time": "2024-05-03T07:13:37.941Z",
+        "type": "INFO",
+        "message": "35ffb6d2ad20131b Connected"
+      },
+      {
+        "time": "2024-05-03T07:13:37.942Z",
+        "type": "INFO",
+        "message": "35ffb6d2ad20131b Running Queued Commands"
+      },
+      {
+        "time": "2024-05-03T07:13:37.942Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 35ffb6d2ad20131b"
+      },
+      {
+        "time": "2024-05-03T07:13:38.427Z",
+        "type": "ERROR",
+        "message": "35ffb6d2ad20131b GPS Recieved No Data"
+      },
+      {
+        "time": "2024-05-03T07:13:38.428Z",
+        "type": "ERROR",
+        "message": "35ffb6d2ad20131b GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2024-05-03T07:13:51.314Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 35ffb6d2ad20131b"
+      },
+      {
+        "time": "2024-05-03T07:14:08.178Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 35ffb6d2ad20131b"
+      },
+      {
+        "time": "2024-05-03T07:14:08.392Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-05-03T07:14:20.533Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 35ffb6d2ad20131b"
+      },
+      {
+        "time": "2024-05-03T07:14:20.708Z",
+        "type": "SUCCESS",
+        "message": "35ffb6d2ad20131b GPS Updated"
+      },
+      {
+        "time": "2024-05-03T07:15:16.267Z",
+        "type": "INFO",
+        "message": "Requested 0xFC From 35ffb6d2ad20131b"
+      },
+      {
+        "time": "2024-05-03T07:15:17.838Z",
+        "type": "INFO",
+        "message": "35ffb6d2ad20131b Disconnected"
+      },
+      {
+        "time": "2024-05-03T07:15:54.004Z",
+        "type": "INFO",
+        "message": "5529d3ca9ac40311 Disconnected"
+      }
+    ],
     "ipLog": []
   },
-  "clients": []
+  "clients": [
+    {
+      "clientID": "5529d3ca9ac40311",
+      "firstSeen": "2024-05-03T06:24:51.628Z",
+      "lastSeen": "2024-05-03T07:15:54.004Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.58.168",
+        "clientGeo": {},
+        "device": {
+          "model": "23073RPBFG",
+          "manufacture": "Xiaomi",
+          "version": "13"
+        }
+      }
+    },
+    {
+      "clientID": "35ffb6d2ad20131b",
+      "firstSeen": "2024-05-03T07:07:46.627Z",
+      "lastSeen": "2024-05-03T07:15:17.839Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.58.168",
+        "clientGeo": {},
+        "device": {
+          "model": "Redmi 8",
+          "manufacture": "Xiaomi",
+          "version": "10"
+        }
+      }
+    }
+  ]
 }
